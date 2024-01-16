@@ -10,8 +10,9 @@ body{
     font-family: 'Noto Serif', serif;
 }
 .container {
-    width: 80%;
+    width: 1500px;
     margin: 0 auto;
+    padding: 20px 0;
 }
 /* HEADER */
 header{
@@ -276,6 +277,10 @@ hr{
     justify-content: space-between;
     gap: 128px;
     margin-bottom: 200px;
+}
+.properties__wrapper__center-part__right-part{
+   width: 700px;
+
 }
 .properties__wrapper__center-part__left-wrapper__title {
     margin-bottom: 32px;
